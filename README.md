@@ -15,5 +15,6 @@ sumber artikel untuk jawaban soal :
 -https://cloudhostingindonesia.com/perbedaan-antara-private-cloud-dan-public-cloud/
 -https://www.niagahoster.co.id/blog/monitoring-server/
 -https://www.kompasiana.com/mboi.coy/54febc6fa33311d31a50f940/lebih-lanjut-mengenai-reverse-proxy
+-https://dltlabs.medium.com/demystifying-forward-and-reverse-proxies-e52eea330e85
 -https://baka.work/apache2-web-server-domain-dan-dns/
 -https://www.youtube.com/watch?v=HlF1egrT4Wg&t=307s
